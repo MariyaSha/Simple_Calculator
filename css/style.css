@@ -1,0 +1,16 @@
+.calculator{
+    margin-top: 40px;
+}
+
+.buttonLine {
+    margin: 20px auto;
+}
+
+.digitalDisplay {
+    margin: 20px auto;
+    padding: 20px 0;
+}
+
+.btnCal {
+    font-family: 'Merriweather', serif;
+}
